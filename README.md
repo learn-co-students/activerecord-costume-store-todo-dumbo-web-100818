@@ -88,7 +88,7 @@ Take a look at a few data types that Active Record supports below:
 |-------------------------------|-------------------------------------------------------|
 |boolean                        | true, false                                           |
 |integer                        | 2, -13, 485                                           |
-|string                         | "Halloween", "Boo!", strings betweeen 1-255 characters|
+|string                         | "Halloween", "Boo!", strings between 1-255 characters|
 |datetime                       | DateTime.now, DateTime.new(2014,10,31)                |
 |float                          | 2.234, 32.2124, -6.342                                |
 |text                           | strings between 1 and 2 ^ 32 - 1 characters           |
